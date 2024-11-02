@@ -1,1 +1,1 @@
-# Azure-Function-IAC-Bicep
+# Azure-IAC- With Bicep
